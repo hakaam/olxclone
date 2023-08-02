@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "528013361917",
+    "project_id": "todolistapp-f1ae9",
+    "storage_bucket": "todolistapp-f1ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528013361917:android:c2691693f7b8909f543494",
+        "android_client_info": {
+          "package_name": "com.example.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528013361917-73rjhde4ke4gd6o674mh6ijl5bn99ln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVn9MQ7YpqJzOfTOqFnlyziCYtaCtyTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528013361917-73rjhde4ke4gd6o674mh6ijl5bn99ln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528013361917:android:d9b540e6bed77908543494",
+        "android_client_info": {
+          "package_name": "com.example.ubercloneappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528013361917-73rjhde4ke4gd6o674mh6ijl5bn99ln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVn9MQ7YpqJzOfTOqFnlyziCYtaCtyTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528013361917-73rjhde4ke4gd6o674mh6ijl5bn99ln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
